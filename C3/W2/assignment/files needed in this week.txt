@@ -1,0 +1,5 @@
+https://github.com/tensorflow/datasets/blob/master/docs/catalog/imdb_reviews.md
+
+https://www.tensorflow.org/datasets/catalog/overview
+
+https://www.tensorflow.org/datasets/api_docs/python/tfds/deprecated/text/SubwordTextEncoder
