@@ -1,0 +1,3 @@
+https://github.com/zalandoresearch/fashion-mnist
+
+https://ai.google/responsibility/responsible-ai-practices/
