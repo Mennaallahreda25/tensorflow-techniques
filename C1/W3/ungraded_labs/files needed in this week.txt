@@ -1,0 +1,7 @@
+https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPooling2D
+
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+
+https://lodev.org/cgtutor/filtering.html
