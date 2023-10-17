@@ -1,0 +1,9 @@
+https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/experimental/RMSprop
+
+https://gombru.github.io/2018/05/23/cross_entropy_loss/
+
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
+
+https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s
+
+https://www.youtube.com/watch?v=NlpS-DhayQA
