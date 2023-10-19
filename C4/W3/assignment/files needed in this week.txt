@@ -1,0 +1,3 @@
+https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay
+
+https://en.wikipedia.org/wiki/Huber_loss
