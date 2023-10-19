@@ -1,0 +1,3 @@
+https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S
+
+https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay
